@@ -174,7 +174,7 @@ When a counterparty provides a parent ECZ-ID, its public Resolver posture can be
 
 ```yaml
 - name: Re-check counterparty ECZ-ID posture
-  uses: Ecocitizenz/ecz-id-mcp-verifier@v0.8.3
+  uses: Ecocitizenz/ecz-id-mcp-verifier@v0.8.4
   with:
     target: ECZ-GB-RBS1NW
     policy: PREFER
