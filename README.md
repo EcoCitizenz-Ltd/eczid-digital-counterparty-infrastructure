@@ -165,3 +165,21 @@ Those conclusions depend on evidence, context and the relying organisation's pol
 **ECZ-ID VERIFIED - ECZ-GB-RBS1NW**
 
 [View current public identity and evidence](https://resolver.ecocitizenz.org/passport/ECZ-GB-RBS1NW)
+
+---
+
+## Automate counterparty identity re-checks
+
+When a counterparty provides a parent ECZ-ID, its public Resolver posture can be re-checked from CI without uploading source code:
+
+```yaml
+- name: Re-check counterparty ECZ-ID posture
+  uses: Ecocitizenz/ecz-id-mcp-verifier@v0.8.2
+  with:
+    target: ECZ-GB-RBS1NW
+    policy: PREFER
+```
+
+[ECZ-ID MCP Verifier](https://github.com/Ecocitizenz/ecz-id-mcp-verifier)
+
+Use this only as one evidence input. Counterparty acceptance remains a procurement/security policy decision.
