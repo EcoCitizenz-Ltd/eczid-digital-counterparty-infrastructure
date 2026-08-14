@@ -1,5 +1,7 @@
 # ECZ-ID Digital Counterparty Infrastructure
 
+![ECZ-ID Digital Counterparty Infrastructure review visual](https://raw.githubusercontent.com/EcoCitizenz-Ltd/.github/main/assets/repository-visuals/eczid-digital-counterparty-infrastructure.jpg)
+
 ## Know who you depend on, which digital surfaces you rely on, and what changed.
 
 Modern counterparty relationships are increasingly digital.
@@ -162,8 +164,7 @@ Those conclusions depend on evidence, context and the relying organisation's pol
 
 ## Public operator proof
 
-**ECZ-ID VERIFIED - ECZ-GB-RBS1NW**
-
+**ECZ-ID public identity evidence - ECZ-GB-RBS1NW**
 [View current public identity and evidence](https://resolver.ecocitizenz.org/passport/ECZ-GB-RBS1NW)
 
 ---
