@@ -15,6 +15,7 @@ This repository provides a practical framework for digital-counterparty review.
 ## Start here
 
 - [Explore EcoCitizenz](https://www.ecocitizenz.com?utm_source=github&utm_medium=repository&utm_campaign=dci&utm_content=home)
+- [Get a free Business Passport and choose a free machine Passport](https://developers.ecocitizenz.com/get-started/free-passport/?utm_source=github&utm_medium=repository&utm_campaign=dci&utm_content=free-passports)
 - [Business Passport & Machine Identity](https://github.com/EcoCitizenz-Ltd/eczid-business-passport-machine-identity)
 - [API Passport Starter](https://github.com/EcoCitizenz-Ltd/eczid-api-passport-starter)
 - [Software Supply Chain Evidence](https://github.com/EcoCitizenz-Ltd/eczid-software-supply-chain-evidence)
@@ -175,7 +176,7 @@ When a counterparty provides a parent ECZ-ID, its public Resolver posture can be
 
 ```yaml
 - name: Re-check counterparty ECZ-ID posture
-  uses: Ecocitizenz/ecz-id-mcp-verifier@v0.8.4
+  uses: Ecocitizenz/ecz-id-mcp-verifier@v0.9.1
   with:
     target: ECZ-GB-RBS1NW
     policy: PREFER
