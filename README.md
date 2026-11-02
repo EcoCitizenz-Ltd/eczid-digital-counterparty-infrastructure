@@ -14,12 +14,12 @@ This repository provides a practical framework for digital-counterparty review.
 
 ## Start here
 
-- [Explore EcoCitizenz](https://www.ecocitizenz.com?utm_source=github&utm_medium=repository&utm_campaign=dci&utm_content=home)
-- [Get a free Business Passport and choose a free machine Passport](https://developers.ecocitizenz.com/get-started/free-passport/?utm_source=github&utm_medium=repository&utm_campaign=dci&utm_content=free-passports)
+- [Explore EcoCitizenz](https://www.ecocitizenz.com?utm_source=github&utm_medium=repository&utm_campaign=dci&utm_content=home&ecz_source=github&ecz_surface=eczid-digital-counterparty-infrastructure)
+- [Get a free Business Passport and choose a free machine Passport](https://developers.ecocitizenz.com/get-started/free-passport/?utm_source=github&utm_medium=repository&utm_campaign=dci&utm_content=free-passports&ecz_source=github&ecz_surface=eczid-digital-counterparty-infrastructure&intent=free-passport)
 - [Business Passport & Machine Identity](https://github.com/EcoCitizenz-Ltd/eczid-business-passport-machine-identity)
 - [API Passport Starter](https://github.com/EcoCitizenz-Ltd/eczid-api-passport-starter)
 - [Software Supply Chain Evidence](https://github.com/EcoCitizenz-Ltd/eczid-software-supply-chain-evidence)
-- [Start with TrustOps](https://trustops.ecocitizenz.com/start?utm_source=github&utm_medium=repository&utm_campaign=dci&utm_content=start)
+- [Start with TrustOps](https://trustops.ecocitizenz.com/start?utm_source=github&utm_medium=repository&utm_campaign=dci&utm_content=start&ecz_source=github&ecz_surface=eczid-digital-counterparty-infrastructure)
 
 ---
 
